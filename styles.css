@@ -1,0 +1,17 @@
+body { 
+      background-color: powderblue; /* Make page background light blue. */
+}
+div { 
+      text-align: center;
+ }
+
+p { 
+      color: red;
+      text-align: center;
+  }
+#dragon { 
+      color: green;
+ }
+span { 
+      color: yellow;
+ }

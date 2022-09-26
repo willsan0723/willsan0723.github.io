@@ -1,0 +1,7 @@
+body { 
+      background-color: powderblue; /* Make page background light blue. */
+}
+div { 
+      text-align: center;
+ }
+
